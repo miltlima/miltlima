@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt text](https://raw.githubusercontent.com/miltlima/miltlima/master/name.png)
+![alt text](https://raw.githubusercontent.com/miltlima/miltlima/master/whom.png)
 
 
 <!--
