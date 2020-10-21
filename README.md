@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![alt text](https://raw.githubusercontent.com/miltlima/miltlima/master/whom-2.png)
-
+![Milton's github stats](https://github-readme-stats.vercel.app/api?username=miltlima&theme=dark&show_icons=true)
 
 <!--
 **miltlima/miltlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
