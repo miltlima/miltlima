@@ -1,7 +1,3 @@
-### Hi there 👋
-
-![Milton's github stats](https://github-readme-stats.vercel.app/api?username=miltlima&hide=contribs&theme=default&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miltlima&theme=default&show_icons=true&layout=compact)](https://github.com/miltlima/github-readme-stats)
 
 
 
