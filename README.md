@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=miltlima)
+![](https://komarev.com/ghpvc/?username=miltlima&color=grey)
                  
 
 - 🔭 I’m currently working on Stone.CO
