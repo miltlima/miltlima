@@ -1,4 +1,4 @@
-![Profile views](https://github.com/miltlima/)
+![](https://komarev.com/ghpvc/?username=miltlima)
                  
 
 - 🔭 I’m currently working on Stone.CO
