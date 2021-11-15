@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=miltlima&color=grey)
+![](https://komarev.com/ghpvc/?username=miltlima&color=red)
                  
 
 - 🔭 I’m currently working on Stone.CO
@@ -6,4 +6,5 @@
 - 📫 How to reach me: 🐦 @milt_lima 
 - 😄 Pronouns: He/Him/His
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=miltlimar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
