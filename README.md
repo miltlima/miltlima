@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miltlima&layout=compact&hide_border=true)](https://github.com/miltlima/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api?username=miltlima)](https://github.com/miltlima/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miltlima)](https://github.com/miltlima/github-readme-stats)
 
 
 
