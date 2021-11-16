@@ -8,12 +8,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other     
-JSON        
-Ballerina        
-Markdown   
-Python
-Javascript
 ```
 <!--END_SECTION:waka-->
 
