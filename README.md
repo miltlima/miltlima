@@ -8,10 +8,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other      8 mins          ██████████▓░░░░░░░░░░░░░░   42.63 % 
-JSON       6 mins          ███████▓░░░░░░░░░░░░░░░░░   30.30 % 
-Go         3 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-Markdown   2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Other     
+JSON        
+Ballerina        
+Markdown   
+Python
+Javascript
 ```
 <!--END_SECTION:waka-->
 
