@@ -9,5 +9,8 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-[![Milton wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miltlima&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=miltlima&layout=compact&hide_border=true </img>
+</a>
 
