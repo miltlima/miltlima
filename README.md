@@ -9,5 +9,5 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miltlima)](https://github.com/anuraghazra/github-readme-stats)
+[![Milton wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miltlima&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
