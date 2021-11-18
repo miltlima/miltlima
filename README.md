@@ -6,11 +6,5 @@
 - 📫 How to reach me: 🐦 @milt_lima 
 - 😄 Pronouns: He/Him/His
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=miltlima&layout=compact&hide_border=true </img>
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miltlima&layout=compact&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
