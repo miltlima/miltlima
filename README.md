@@ -7,7 +7,6 @@
 - 😄 Pronouns: He/Him/His
 
 <!--START_SECTION:waka-->
-```text
-```
 <!--END_SECTION:waka-->
+
 
