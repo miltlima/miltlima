@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=miltlima&color=green)
+![](https://komarev.com/ghpvc/?username=miltlima&color=blue)
                  
 
 - 🔭 I’m currently working as SRE/Devops Engineer at Zup Innovation
