@@ -20,4 +20,5 @@ jobs:
           SHOW_PROFILE_VIEWS: "false"
           SHOW_PROJECTS: "false"
           SHOW_TOTAL_CODE_TIME: "false"
+          SHOW_LOC_CHART: "false"
 
