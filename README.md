@@ -1,8 +1,27 @@
-![](https://komarev.com/ghpvc/?username=miltlima&color=blue)
+![](https://komarev.com/ghpvc/?username=miltlima&color=blue) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miltonlimaj/)](https://www.linkedin.com/in/miltonlimaj/)
                  
 
 - 🔭 I’m currently working as SRE / Devops Engineer at ( put your company name here )
-- 📫 How to reach me: 🐦 @milt_lima
+
+Skillset
+
+Version Control: Git
+CI/CD: Jenkins, Travis CI, GitLab CI/CD
+Infrastructure as Code: Terraform, Ansible, CloudFormation
+Container Orchestration: Docker, Kubernetes
+Cloud Computing: AWS, Azure, GCP
+Monitoring: Prometheus, Grafana, Loki
+Scripting: Python, Shell Scripting (Bash)
+Configuration Management: Ansible
+DevOps Practices: CI/CD, Agile, Scrum
+Operating Systems: Linux, Windows Server
+Networking and Security: TCP/IP, Firewalls
+Databases: MySQL, PostgreSQL
+Virtualization: VMware, VirtualBox
+Collaboration Tools: Jira, Confluence, Slack
+Automated Testing: Selenium, JUnit
+IT Security: Security Best Practices, IAM
+GitOps: Argo CD
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
