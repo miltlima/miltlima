@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=miltlima&color=blue)
                  
 
-- 🔭 I’m currently working as SRE/Devops Engineer at Zup Innovation
+- 🔭 I’m currently working as SRE / Devops Engineer at ( put your company name here )
 - 📫 How to reach me: 🐦 @milt_lima
 
 <!--START_SECTION:waka-->
