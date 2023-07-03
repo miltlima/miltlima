@@ -6,7 +6,7 @@
 Skillset
 
 - Version Control: Git
-- CI/CD: Jenkins, Travis CI, GitLab CI/CD
+- CI/CD: Jenkins, Travis CI, GitLab CI/CD, Github Actions
 - Infrastructure as Code: Terraform, CloudFormation
 - Container Orchestration: Docker, Kubernetes
 - Cloud Computing: AWS, Azure, GCP
