@@ -11,7 +11,7 @@ Skillset
 - Container Orchestration: Docker, Kubernetes
 - Cloud Computing: AWS, Azure, GCP
 - Monitoring: Prometheus, Grafana, Loki
-- Scripting: Python, Shell Scripting (Bash)
+- Program Languages & Scripting: Javascript, Python, Shell Scripting (Bash)
 - Configuration Management: Ansible
 - DevOps Practices: CI/CD, Agile, Scrum
 - Operating Systems: Linux, Windows Server
