@@ -3,25 +3,6 @@
 
 - 🔭 I’m currently working as SRE / Devops Engineer at ( put your company name here )
 
-Skillset
-
-- Version Control: Git
-- CI/CD: Jenkins, Travis CI, GitLab CI/CD, Github Actions
-- Infrastructure as Code: Terraform, CloudFormation
-- Container Orchestration: Docker, Kubernetes
-- Cloud Computing: AWS, Azure, GCP
-- Monitoring: Prometheus, Grafana, Loki
-- Program Languages & Scripting: Javascript, Python, Shell Scripting (Bash)
-- Configuration Management: Ansible
-- DevOps Practices: CI/CD, Agile, Scrum
-- Operating Systems: Linux, Windows Server
-- Networking and Security: TCP/IP, Firewalls
-- Databases: MySQL, PostgreSQL
-- Virtualization: VMware, VirtualBox
-- Collaboration Tools: Jira, Confluence, Slack
-- Automated Testing: Selenium, JUnit
-- IT Security: Security Best Practices, IAM
-- GitOps: Argo CD
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
