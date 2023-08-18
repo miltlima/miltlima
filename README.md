@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=miltlima&color=blue) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miltonlimaj/)](https://www.linkedin.com/in/miltonlimaj/)
+![](https://komarev.com/ghpvc/?username=miltlima&color=blue) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miltonlimaj/)](https://www.linkedin.com/in/miltonlimaj/) [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/miltlima){:target="_blank"}
                  
 
 - 🔭 I’m currently working as SRE / Devops Engineer at ( put your company name here )
