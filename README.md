@@ -1,4 +1,6 @@
-![](https://komarev.com/ghpvc/?username=miltlima&color=blue) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miltonlimaj/)](https://www.linkedin.com/in/miltonlimaj/) [!["Buy Me A Coffee"](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/miltlima)
+![](https://komarev.com/ghpvc/?username=miltlima&color=blue) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miltonlimaj/)](https://www.linkedin.com/in/miltonlimaj/) 
+
+[!["Buy Me A Coffee"](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/miltlima)
 
 Tech Stacks
                  
