@@ -5,11 +5,11 @@ Hi there
 
 This is the place where I yu can show my short profile  🤣
 
-🔭  I’m currently working on working as SRE / Devops Engineer 😉
-🌱  I’m currently learning Software Architecture, Go and Microsservices Architecture
-💬  Ask me about anything related to Kubernetes/Containers/Python/Cloud/CI/CD
-👨‍💻  Read more about my projects at gautamkrishnar.com
-⚡  Fun fact: I ❤️ 🐶s Love Travel and know other cultures, gaming only `[ Tochlight, Starcraft, Assetto Corsa ]`
+- 🔭  I’m currently working on working as SRE / Devops Engineer 😉
+- 🌱  I’m currently learning Software Architecture, Go and Microsservices Architecture
+- 💬  Ask me about anything related to Kubernetes/Containers/Python/Cloud/CI/CD
+- 👨‍💻  Read more about my projects at gautamkrishnar.com
+- ⚡  Fun fact: I ❤️ 🐶s Love Travel and know other cultures, gaming only `[ Tochlight, Starcraft, Assetto Corsa ]`
 
 ```yaml
 Tech Stacks
