@@ -11,7 +11,7 @@ This is the place where I yu can show my short profile:
 - 👨‍💻  Read more about me in my social/professional network
 - ⚡  Fun fact: I ❤️ 🐶s, Travel and know other cultures, gaming only `[ Torchlight, Starcraft, Assetto Corsa ]`
 
-📐 **Projects**
+📐 **Open source Personal Projects**
 
 - `Terramagic`: Create a folder infrastructure for Tf files
 - `Kubelearn`: Written in golang this tool improve you knowledge in Kubernetes provide a challenge where you create objects and these objects need match with questions
