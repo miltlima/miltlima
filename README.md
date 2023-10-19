@@ -12,7 +12,17 @@ This is the place where I yu can show my short profile  🤣
 - ⚡  Fun fact: I ❤️ 🐶s Love Travel and know other cultures, gaming only `[ Tochlight, Starcraft, Assetto Corsa ]`
 
 ```yaml
-Tech Stacks
+tech_stacks:
+  - Terraform
+  - Kubernetes
+  - Docker
+  - Podman
+  - AWS
+  - GCP
+  - Github Actions
+  - Python
+  - Golang
+  - Gitlab
 ```         
 
 <!--START_SECTION:waka-->
