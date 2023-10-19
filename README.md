@@ -13,8 +13,11 @@ This is the place where I yu can show my short profile:
 
 **Projects**
 
-Terramagic: Create a folder infrastructure for Tf files
-Kubelearn: Written in golang this tool improve you knowledge in Kubernetes provide a challenge where you create objects and these objects need match with questions
+- Terramagic: Create a folder infrastructure for Tf files
+- Kubelearn: Written in golang this tool improve you knowledge in Kubernetes provide a challenge where you create objects and these objects need match with questions
+- lookr: Check if you AWS account have resources
+- kom: Show Metrics from pods and nodes in Kubernetes
+- goact: generate Github Actions and Dockerfiles to specific stacks
 
 ```yaml
 tech_stacks:
