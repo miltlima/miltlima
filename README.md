@@ -6,7 +6,7 @@ Tech Stacks
 
 - 🔭 I’m currently working as SRE / Devops Engineer at ( put your company name here )
 
-![Milton's GitHub stats](https://github-readme-stats.vercel.app/api?username=miltlima&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miltlima&layout=compact)
+![Milton's GitHub stats](https://github-readme-stats.vercel.app/api?username=miltlima&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miltlima&layout=donut)](https://github.com/miltlima/github-readme-stats)
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
