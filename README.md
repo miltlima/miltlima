@@ -1,12 +1,19 @@
 ![](https://komarev.com/ghpvc/?username=miltlima&color=blue) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miltonlimaj/)](https://www.linkedin.com/in/miltonlimaj/) 
 
+     
+Hi there 
 
+This is the place where I yu can show my short profile  🤣
+
+🔭  I’m currently working on working as SRE / Devops Engineer 😉
+🌱  I’m currently learning Software Architecture, Go and Microsservices Architecture
+💬  Ask me about anything related to Kubernetes/Containers/Python/Cloud/CI/CD
+👨‍💻  Read more about my projects at gautamkrishnar.com
+⚡  Fun fact: I ❤️ 🐶s Love Travel and know other cultures, gaming only `[ Tochlight, Starcraft, Assetto Corsa ]`
+
+```yaml
 Tech Stacks
-                 
-
-- 🔭 I’m currently working as SRE / Devops Engineer at ( put your company name here )
-
-![Milton's GitHub stats](https://github-readme-stats.vercel.app/api?username=miltlima&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miltlima&layout=donut)](https://github.com/miltlima/github-readme-stats)
+```         
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
