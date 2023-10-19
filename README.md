@@ -9,7 +9,7 @@ This is the place where I yu can show my short profile  🤣
 - 🌱  I’m currently learning Software Architecture, Go and Microsservices Architecture
 - 💬  Ask me about anything related to Kubernetes/Containers/Python/Cloud/CI/CD
 - 👨‍💻  Read more about my in my social/professional network
-- ⚡  Fun fact: I ❤️ 🐶s Love Travel and know other cultures, gaming only `[ Tochlight, Starcraft, Assetto Corsa ]`
+- ⚡  Fun fact: I ❤️ 🐶s Love Travel and know other cultures, gaming only `[ Torchlight, Starcraft, Assetto Corsa ]`
 
 ```yaml
 tech_stacks:
