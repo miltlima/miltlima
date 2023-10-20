@@ -5,13 +5,13 @@
 **Hi there I'm Milton**
 
 This is the place where I yu can show my short profile:
-
+```text
 - 🔭  I’m currently working as SRE / Devops Engineer 😉
 - 🌱  I’m currently learning Software Architecture, Go and Microsservices Architecture
 - 💬  Ask me about anything related to Kubernetes/Containers/Python/Cloud/CI&CD
 - 👨‍💻  Read more about me in my social/professional network
 - ⚡  Fun fact: I ❤️ 🐶s, Travel and know other cultures, gaming only `[ Torchlight, Starcraft, Assetto Corsa ]`
-
+```
 📐 **Open source Personal Projects**
 
 - `Terramagic`: Create a folder infrastructure for Tf files
