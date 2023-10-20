@@ -4,7 +4,7 @@
      
 **Hi there I'm Milton**
 
-This is the place where I you can view my short profile:
+👨🏽‍💻 This is the place where I you can view my short profile:
 ```text
 - 🔭  I’m currently working as SRE / Devops Engineer 😉
 - 🌱  I’m currently learning Software Architecture, Go and Microsservices Architecture
