@@ -4,25 +4,26 @@
      
 **Hi there I'm Milton**
 
-This is the place where I yu can show my short profile:
+This is the place where I you can view my short profile:
 ```text
 - 🔭  I’m currently working as SRE / Devops Engineer 😉
 - 🌱  I’m currently learning Software Architecture, Go and Microsservices Architecture
 - 💬  Ask me about anything related to Kubernetes/Containers/Python/Cloud/CI&CD
 - 👨‍💻  Read more about me in my social/professional network
-- ⚡  Fun fact: I ❤️ 🐶s, Travel and know other cultures, gaming only `[ Torchlight, Starcraft, Assetto Corsa ]`
+- ⚡  Fun fact: I ❤️ 🐶s, Travel and know other cultures, gaming only [ Torchlight, Starcraft, Assetto Corsa ]
 ```
 📐 **Open source Personal Projects**
 
-- `Terramagic`: Create a folder infrastructure for Tf files
-- `Kubelearn`: Written in golang this tool improve you knowledge in Kubernetes provide a challenge where you create objects and these objects need match with questions
-- `lookr`: Check if you AWS account have resources
-- `kom`: Show Metrics from pods and nodes in Kubernetes
-- `goact`: Generate Github Actions and Dockerfiles to specific stacks
-
+```text
+- Terramagic: Create a folder infrastructure for Tf files
+- Kubelearn: Written in golang this tool improve you knowledge in Kubernetes provide a challenge where you create objects and these objects need match with questions
+- lookr: Check if you AWS account have resources
+- kom: Show Metrics from pods and nodes in Kubernetes
+- goact: Generate Github Actions and Dockerfiles to specific stacks
+```
 🛠 **Tech Stacks**
 
-```yaml
+```text
   - Terraform
   - Kubernetes
   - Docker
