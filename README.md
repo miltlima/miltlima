@@ -25,16 +25,16 @@ This is the place where I you can view my short profile:
 🛠 **Tech Stacks**
 
 ```text
-  - Terraform
-  - Kubernetes
-  - Docker
-  - Podman
-  - AWS
-  - GCP
-  - Github Actions
-  - Python
-  - Golang
-  - Gitlab
+- Terraform
+- Kubernetes
+- Docker
+- Podman
+- AWS
+- GCP
+- Github Actions
+- Python
+- Golang
+- Gitlab
 ```         
 
 <!--START_SECTION:waka-->
