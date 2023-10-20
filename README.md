@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=miltlima&color=blueviolet) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miltonlimaj/)](https://www.linkedin.com/in/miltonlimaj/) ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fmilt_lima)
+![](https://komarev.com/ghpvc/?username=miltlima&color=blueviolet) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miltonlimaj/)](https://www.linkedin.com/in/miltonlimaj/)
 
 
      
