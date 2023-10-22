@@ -12,6 +12,15 @@
 - 👨‍💻  Read more about me in my social/professional network
 - ⚡  Fun fact: I ❤️ 🐶s, Travel and know other cultures, gaming only [Torchlight, Starcraft, Assetto Corsa, Forza]
 ```
+🎖 Certifications
+```text
+- AWS Certified Solutions Architect – Associate SAA-03
+- AWS Certified Cloud Practitioner - CLF-01
+- CKA: Certified Kubernetes Administrator
+- CKAD: Certified Kubernetes Application Developer
+- HashiCorp Certified: Terraform Associate (003)
+- GitLab Certified Git Associate
+```
 📐 **Open source Personal Projects**
 
 ```text
