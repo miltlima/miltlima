@@ -21,8 +21,8 @@
 - CKAD: Certified Kubernetes Application Developer
 - HashiCorp Certified: Terraform Associate (003)
 - GitLab Certified Git Associate
-- Intermediate Kubernetes Operators
-- Advanced Kubernetes Operators
+- IBM Intermediate Kubernetes Operators
+- IBM Advanced Kubernetes Operators
 ```
 📐 **Open source Personal Projects**
 
