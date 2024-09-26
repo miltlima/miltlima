@@ -7,7 +7,7 @@
 
 👨🏽‍💻 This is the place where I you can view my short profile:
 ```text
-- 🔭  I’m currently working as Cloud Platform Engineer at Digibee 😉
+- 🔭  I’m currently working as Cloud Platform Engineer 😉
 - 🌱  I’m currently learning Software Architecture, Go and Microsservices Architecture
 - 💬  Ask me about anything related to Kubernetes/Containers/Python/Cloud/CI&CD
 - 👨‍💻  Read more about me in my social/professional network
