@@ -17,8 +17,10 @@
 ```text
 - AWS Certified Solutions Architect – Associate SAA-03
 - AWS Certified Cloud Practitioner - CLF-01
-- CKA: Certified Kubernetes Administrator
-- CKAD: Certified Kubernetes Application Developer
+- CKA Certified Kubernetes Administrator
+- CKAD Certified Kubernetes Application Developer
+- KCNA Kubernetes and Cloud Native Associate
+- KCSA Kubernetes and Cloud Native Security Associate
 - HashiCorp Certified: Terraform Associate (003)
 - GitLab Certified Git Associate
 - IBM Intermediate Kubernetes Operators
