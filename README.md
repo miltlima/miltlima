@@ -77,9 +77,10 @@ Sunday                   300 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     54 mins             ████████████████████████░   96.88 % 
+INI                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
 
- Last Updated on 13/03/2025 18:41:48 UTC
+ Last Updated on 14/03/2025 18:42:15 UTC
 <!--END_SECTION:waka-->
