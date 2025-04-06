@@ -11,7 +11,7 @@
 - 🌱  I’m currently learning Software Architecture, Go and Microsservices Architecture
 - 💬  Ask me about anything related to Kubernetes/Containers/Python/Cloud/CI&CD
 - 👨‍💻  Read more about me in my social/professional network
-- ⚡  Fun fact: I ❤️ 🐶s, Travel and know other cultures, gaming only [Torchlight, Starcraft, Assetto Corsa, Forza]
+- ⚡  Fun fact: I ❤️ 🐱 🐶s, Travel and know other cultures, gaming only [Torchlight, Starcraft, Assetto Corsa, Forza, Ghost Recon]
 ```
 🎖 Certifications
 ```text
