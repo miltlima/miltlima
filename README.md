@@ -29,15 +29,30 @@
 📐 **Open source Personal Projects**
 
 ```text
-- 📦 Secrethor - A Kubernetes Operator written in Go to enforce **Secret governance policies**.\n
-     It validates Secret creation based on rules like allowed types, required keys, forbidden keys\n
-     value constraints, and expiration time. Built for secure and GitOps-driven environments.
-- 📦 Secrethor CLI - A companion CLI tool to the Secrethor Operator. It allows local auditing of Kubernetes Secrets, with features like **orphan detection**, name-based search across namespaces, and upcoming validations based on CRD policies such as expiration and structure compliance.
-- 📦 Terramagic - Automatically generates a folder structure for Terraform files. Helps standardize Infrastructure-as-Code projects and keeps everything organized from the start.
-- 📦 Kubelearn - Written in Go, this tool helps you improve your Kubernetes knowledge through interactive challenges. You answer questions by creating Kubernetes objects — your answers are only valid if the created resources match the expected result.
-- 📦 lookr - Scans your AWS account and lists which resources are currently in use. Useful for quick audits and identifying leftovers or undocumented resources.
-- 📦 kom - Displays real-time metrics from **pods** and **nodes** in Kubernetes. Great for a quick overview of cluster usage without relying on external dashboards.
-- 📦 goact - Generates GitHub Actions workflows and Dockerfiles for specific tech stacks. Speeds up CI/CD setup and helps maintain best practices from the beginning.
+- 📦 **Secrethor** – A Kubernetes Operator written in Go to enforce **Secret governance policies**.  
+  It validates Secret creation based on rules like allowed types, required keys, forbidden keys,  
+  value constraints, and expiration time. Built for secure and GitOps-driven environments.
+
+- 📦 **Secrethor CLI** – A companion CLI tool to the Secrethor Operator.  
+  It allows local auditing of Kubernetes Secrets, with features like **orphan detection**,  
+  name-based search across namespaces, and upcoming validations based on CRD policies  
+  such as expiration and structure compliance.
+
+- 📦 **Terramagic** – Automatically generates a folder structure for Terraform files.  
+  Helps standardize Infrastructure-as-Code projects and keeps everything organized from the start.
+
+- 📦 **Kubelearn** – Written in Go, this tool helps you improve your Kubernetes knowledge  
+  through interactive challenges. You answer questions by creating Kubernetes objects —  
+  your answers are only valid if the created resources match the expected result.
+
+- 📦 **lookr** – Scans your AWS account and lists which resources are currently in use.  
+  Useful for quick audits and identifying leftovers or undocumented resources.
+
+- 📦 **kom** – Displays real-time metrics from **pods** and **nodes** in Kubernetes.  
+  Great for a quick overview of cluster usage without relying on external dashboards.
+
+- 📦 **goact** – Generates GitHub Actions workflows and Dockerfiles for specific tech stacks.  
+  Speeds up CI/CD setup and helps maintain best practices from the beginning.
 ```
 🛠 **Tech Stacks**
 
