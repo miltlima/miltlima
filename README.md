@@ -60,7 +60,8 @@
 - Terraform
 - Kubernetes
 - Keda
-_ Helm
+- Helm
+- Kustomize
 - Docker
 - Podman
 - AWS
@@ -75,6 +76,8 @@ _ Helm
 - Mongodb
 - PostgreSql
 - Kong
+- RabbitMQ
+- Serverless
 ```         
 
 <!--START_SECTION:waka-->
