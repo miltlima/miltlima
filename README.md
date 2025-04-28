@@ -72,6 +72,7 @@
 - Node.js
 - Gitlab
 - Github Actions
+- Azure Devops
 - Jenkins
 - Mongodb
 - PostgreSql
