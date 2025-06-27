@@ -107,9 +107,10 @@ Sunday                   315 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     5 mins              █████████████████░░░░░░░░   66.91 % 
+Go                       2 mins              ████████░░░░░░░░░░░░░░░░░   33.09 % 
 ```
 
 
- Last Updated on 26/06/2025 18:44:11 UTC
+ Last Updated on 27/06/2025 18:43:38 UTC
 <!--END_SECTION:waka-->
