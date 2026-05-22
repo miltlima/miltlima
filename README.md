@@ -107,13 +107,13 @@ Sunday                   362 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       6 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
-Markdown                 5 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
-JSON                     4 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-YAML                     2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-Bash                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+Go                       7 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   28.16 % 
+Markdown                 6 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+JSON                     4 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+YAML                     3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+HTML                     1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
 ```
 
 
- Last Updated on 21/05/2026 19:15:20 UTC
+ Last Updated on 22/05/2026 19:09:07 UTC
 <!--END_SECTION:waka-->
