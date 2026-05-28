@@ -82,38 +82,6 @@
 ```         
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                595 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-🌆 Daytime                1035 commits        ████████░░░░░░░░░░░░░░░░░   30.29 % 
-🌃 Evening                1463 commits        ███████████░░░░░░░░░░░░░░   42.82 % 
-🌙 Night                  324 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   531 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Tuesday                  544 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Wednesday                685 commits         █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
-Thursday                 335 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Friday                   778 commits         ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
-Saturday                 182 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-Sunday                   362 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Go                       10 hrs 32 mins      ███████████░░░░░░░░░░░░░░   44.66 % 
-Markdown                 3 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-HTML                     3 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-YAML                     3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-JSON                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-```
-
-
- Last Updated on 27/05/2026 19:20:30 UTC
+ Last Updated on 28/05/2026 19:27:00 UTC
 <!--END_SECTION:waka-->
