@@ -5,17 +5,17 @@
      
 **Hi there I'm Milton**
 
-👨🏽‍💻 This is the place where I you can view my short profile:
+👨🏽‍💻 This is the place where you can view my short profile:
 ```text
 - 🔭  I’m currently working as Platform Engineer Specialist @ Bemobi 😉
-- 🌱  I’m currently learning Software Architecture, Go and Microsservices Architecture
+- 🌱  I’m currently learning Software Architecture, Go and Microservices Architecture
 - 💬  Ask me about anything related to Kubernetes/Containers/Python/Cloud/CI&CD
 - 👨‍💻  Read more about me in my social/professional network
 ```
 🎖 Certifications
 ```text
-- AWS Certified Solutions Architect – Associate SAA-03
-- AWS Certified Cloud Practitioner - CLF-01
+- AWS Certified Solutions Architect – Associate SAA-C03
+- AWS Certified Cloud Practitioner - CLF-C01
 - CKA Certified Kubernetes Administrator
 - CKAD Certified Kubernetes Application Developer
 - KCNA Kubernetes and Cloud Native Associate
@@ -27,32 +27,31 @@
 ```
 📐 **Open source Personal Projects**
 
-```text
-- 📦 Secrethor – A Kubernetes Operator written in Go to enforce **Secret governance policie.  
-  It validates Secret creation based on rules like allowed types, required keys, forbidden keys,  
+- 📦 [Secrethor](https://github.com/miltlima/secrethor) – A Kubernetes Operator written in Go to enforce Secret governance policies.
+  It validates Secret creation based on rules like allowed types, required keys, forbidden keys,
   value constraints, and expiration time. Built for secure and GitOps-driven environments.
 
-- 📦 Secrethor CLI – A companion CLI tool to the Secrethor Operator.  
-  It allows local auditing of Kubernetes Secrets, with features like orphan detection,  
-  name-based search across namespaces, and upcoming validations based on CRD policies  
+- 📦 [Secrethor CLI](https://github.com/miltlima/secrethor-cli) – A companion CLI tool to the Secrethor Operator.
+  It allows local auditing of Kubernetes Secrets, with features like orphan detection,
+  name-based search across namespaces, and upcoming validations based on CRD policies
   such as expiration and structure compliance.
 
-- 📦 Terramagic CLI – Automatically generates a folder structure for Terraform files.  
+- 📦 [Terramagic CLI](https://github.com/miltlima/terramagic) – Automatically generates a folder structure for Terraform files.
   Helps standardize Infrastructure-as-Code projects and keeps everything organized from the start.
 
-- 📦 Kubelearn CLI/Dash – Written in Go, this tool helps you improve your Kubernetes knowledge  
-  through interactive challenges. You answer questions by creating Kubernetes objects —  
-  your answers are only valid if the created resources match the expected result.
+- 📦 [KubeLearn](https://github.com/miltlima/kubelearn) – A hands-on Kubernetes practice lab for the CKS and CKNE exams and CKA/CKAD-level fundamentals.
+  You solve 54 tasks on a local kind cluster from a terminal in the browser, and it tells you which ones
+  are solved and why the others are not. One binary, in English, Portuguese and Spanish.
 
-- 📦 lookr CLI – Scans your AWS account and lists which resources are currently in use.  
+- 📦 [lookr CLI](https://github.com/miltlima/lookr) – Scans your AWS account and lists which resources are currently in use.
   Useful for quick audits and identifying leftovers or undocumented resources.
 
-- 📦 kom CLI – Displays real-time metrics from **pods** and **nodes** in Kubernetes.  
+- 📦 [kom CLI](https://github.com/miltlima/kom) – Displays real-time metrics from pods and nodes in Kubernetes.
   Great for a quick overview of cluster usage without relying on external dashboards.
 
-- 📦 goact CLI – Generates GitHub Actions workflows and Dockerfiles for specific tech stacks.  
+- 📦 [goact CLI](https://github.com/miltlima/goact) – Generates GitHub Actions workflows and Dockerfiles for specific tech stacks.
   Speeds up CI/CD setup and helps maintain best practices from the beginning.
-```
+
 🛠 **Tech Stacks**
 
 ```text
@@ -70,7 +69,6 @@
 - Golang
 - Node.js
 - Gitlab
-- Github Actions
 - Azure Devops
 - Jenkins
 - Mongodb
